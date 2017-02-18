@@ -1,7 +1,7 @@
 require "config"
 require "interface"
 
-MOD_NAME = "LogisticTrainNetwork"
+MOD_NAME = "NiftyLogisticTrainNetwork"
 MINDELIVERYSIZE = "min-delivery-size"
 MINTRAINLENGTH = "min-train-length"
 MAXTRAINLENGTH = "max-train-length"

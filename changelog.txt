@@ -1,3 +1,9 @@
+Nifty's 0.9.1
+- logistic train stops use electronic circuits in their recipe instead of advanced circuits
+- use_best_effort defaults to true
+- stop_timeout defaults to 300
+- fixed: undefined behavior when choosing between multiple orders for a single train
+
 0.9.1
 - fixed: Stops might link with wrong I/O entities in sandbox mode
 - config: message_filter_size takes 0 as valid option to disable message filtering

@@ -1,4 +1,4 @@
-MOD_NAME = "LogisticTrainNetwork"
+MOD_NAME = "NiftyLogisticTrainNetwork"
 
 require ("lib")
 require ("config")
