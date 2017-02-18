@@ -4,7 +4,7 @@ log_level = 2
 
 -- set notification target
 -- console: in game console, log: logfile in factorio root directory, both: default
-log_output = "both"
+log_output = "log"
 
 -- how many messages back are filtered for duplicates
 -- default 10
@@ -26,8 +26,8 @@ delivery_timeout = 18000
 -- duration in ticks of inactivity before leaving (un-)loading stations
 -- default 18000 = 5min
 -- off 0: trains will wait forever to (un-)load
-stop_timeout = 18000
+stop_timeout = 300
 
 -- when false provider stations holding less than request stations min_delivery_size are ignored
 -- default false
-use_Best_Effort = false
+use_Best_Effort = true
