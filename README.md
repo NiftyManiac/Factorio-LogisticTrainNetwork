@@ -1,5 +1,5 @@
 # Factorio - Nifty's Logistic Train Network
-I made a few minor changes and a fixed a bug with Optera's mod to be able to use it in the GreyGoo project. See the changelog for details.
+I made a few minor changes and fixed a bug with Optera's mod to be able to use it in the GreyGoo project. See the changelog for details.
 
 Factorio mod  adding "logistic-train-stops" acting as anchor points for building a train powered logistic network.<br/>
 It can handle multiple train configurations and will pick the best available train for a delivery.<br/>
